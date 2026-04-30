@@ -10,9 +10,9 @@
 
 ## 👨‍💼 About Me
 
-I'm a dedicated **Software Quality Assurance Engineer** with **3+ years of experience** in designing and executing comprehensive test strategies. I specialize in identifying bugs before they reach production and ensuring seamless user experiences across web and mobile applications, particularly in the **fintech sector**.
+I'm a dedicated **Software Quality Assurance Engineer** with **3+ years of experience** in designing and executing comprehensive test strategies. I specialize in identifying bugs before they reach production and ensuring software meets the highest quality standards.
 
-My approach combines **attention to detail**, **technical precision**, and a genuine passion for quality. I believe that great QA isn't just about finding bugs—it's about understanding the product, the users, and the business to deliver real value.
+My approach combines **attention to detail**, **technical precision**, and a genuine passion for quality. I believe that great QA isn't just about finding bugs—it's about understanding the product and user experience deeply.
 
 **Fun Fact:** 🎯 I've caught bugs so obscure that even the developers thought they were impossible—until I proved them wrong! I'm convinced that QA engineers have superpowers. 😄
 
@@ -31,7 +31,7 @@ My approach combines **attention to detail**, **technical precision**, and a gen
 ```
 Automation Frameworks:  Cypress | Selenium
 API Testing Tools:      Postman | Insomnia | Swagger
-Programming:            Python | JavaScript (Basic)
+Programming:            Python | JavaScript (Basic) | TypeScript
 Platforms:              Windows | macOS | Linux
 Version Control:        Git | GitHub
 Project Management:     Jira | Confluence | Azure DevOps
@@ -52,12 +52,22 @@ Project Management:     Jira | Confluence | Azure DevOps
 
 ## 🚀 My Projects & Contributions
 
-| Project | Description | Tools Used |
-|---------|-------------|----------|
-| **Fintech API Testing Suite** | Automated API testing for payment processing systems | Postman, JavaScript |
-| **Web Application Test Automation** | End-to-end test scenarios for SaaS platform | Cypress |
-| **Mobile App Testing Framework** | Comprehensive manual testing strategy for iOS/Android app | Manual testing, Jira |
-| **Test Case Repository** | Documentation of 200+ reusable test cases | Confluence |
+### Featured Projects
+
+| Project | Description | Repository | Tech Stack |
+|---------|-------------|------------|-----------|
+| **ERP Automation Scripts** | Comprehensive automation scripts for different modules in ERP systems | [ERP-Automation-Scripts-Selenium-Python](https://github.com/innara/ERP-Automation-Scripts-Selenium-Python) | Python, Selenium |
+| **Innara Portfolio** | Personal portfolio showcasing QA expertise and projects | [Innara-porfolio](https://github.com/innara/Innara-porfolio) | TypeScript, React |
+| **Imtiaz ERP Automation** | Specialized automation scripts for Imtiaz ERP system testing | [Imtiaz-ERP-Automation-scripts](https://github.com/innara/Imtiaz-ERP-Automation-scripts-pYTHON-Selenium) | Python, Selenium |
+| **FIDSOR CRM** | CRM system development and testing | [FIDSOR-CRM](https://github.com/innara/FIDSOR-CRM) | Full Stack |
+
+### My Contributions Include:
+- ✅ End-to-end test automation frameworks using Selenium and Cypress
+- ✅ API testing and validation for complex enterprise systems
+- ✅ Comprehensive test documentation and case repositories
+- ✅ ERP system testing automation scripts
+- ✅ Web application performance and regression testing
+- ✅ Mobile app testing strategies and execution
 
 > 📊 Check out my repositories for detailed test case samples and automation scripts!
 
@@ -77,6 +87,7 @@ Project Management:     Jira | Confluence | Azure DevOps
 - 🧪 Diving deeper into performance and load testing
 - 🔐 Strengthening knowledge in security testing
 - ☁️ Learning cloud-based testing platforms
+- 🚀 Expanding expertise in modern test frameworks and CI/CD integration
 
 ---
 
@@ -99,6 +110,6 @@ I'm always excited to discuss QA strategies, share testing tips, and collaborate
   
 ### ⭐ *Let's build quality software together!*
 
-*Last updated: April 2026*
+*Last updated: April 30, 2026*
 
 </div>
