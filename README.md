@@ -1,202 +1,288 @@
-# 👋 Hey, I'm Innara Karim
+# 👋 Hi, I'm Innara Karim
 
 <div align="center">
-  <strong>Software Quality Assurance Engineer | Testing Enthusiast | Agile Advocate</strong>
-  
-  *Passionate about ensuring software excellence through meticulous testing and collaborative problem-solving* ✨
+
+### ISTQB® Certified Senior QA Engineer | AI-Assisted QA | Test Automation | Test Strategy
+
+**FinTech · ERP · SaaS · Web · Mobile · AI-Powered Applications**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/innarakarim/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/innara)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-4285F4?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://innara-karimm.vercel.app/)
+
 </div>
 
 ---
 
-## 👨‍💼 About Me
+## 🚀 About Me
 
-I'm a dedicated **Software Quality Assurance Engineer** with **3+ years of hands-on experience** in designing and executing comprehensive test strategies for web and mobile applications. I specialize in identifying bugs before they reach production and building scalable testing frameworks.
+I'm an **ISTQB® Certified Senior QA Engineer** with 3+ years of experience across **FinTech, ERP, CRM, HRM, Real Estate, SaaS, Web and Mobile applications**.
 
-My approach combines **attention to detail**, **technical precision**, and a genuine passion for quality. I believe that great QA isn't just about finding bugs—it's about understanding the product, anticipating edge cases, and ensuring reliable software experiences for end users.
+I work across the complete software quality lifecycle — from **test strategy and test planning to automation, API validation, regression, UAT, release readiness and production quality gates**.
 
-I work best in collaborative, Agile environments where quality is a shared responsibility. Whether it's manual testing complex workflows or building automation frameworks, I bring a strategic mindset to every testing challenge.
+I've also led and mentored a **5-engineer QA team** on a real-time MENA financial platform, where I was involved in test strategy, sprint planning, multi-stage quality gates and release sign-off.
 
-**Fun Fact:** 🎯 I've caught bugs so obscure that even the developers thought they were impossible—until I proved them wrong! I'm convinced that QA engineers have superpowers. 😄
-
----
-
-## 🎯 What I Do
-
-As a QA Engineer, I bring a multi-dimensional testing approach:
-
-- 🔍 **Manual Testing** - Functional, regression, sanity testing with sharp attention to detail
-- 🤖 **Test Automation** - Building maintainable frameworks with Selenium and Cypress using Page Object Model patterns
-- 🔗 **API Testing** - Comprehensive testing of RESTful endpoints using Postman and Insomnia
-- 📊 **Test Strategy & Documentation** - Designing test plans, writing comprehensive test cases, and creating bug reports
-- 📱 **Multi-Platform Testing** - Web applications, mobile apps (iOS/Android), and responsive design testing
-- 🔐 **Security Testing** - SQL injection, XSS, CSRF, authentication, and authorization testing
-- ⚡ **Performance Testing** - Load testing, stress testing, and performance optimization verification
+Currently, I'm expanding QA beyond traditional automation through **AI-assisted and agentic QA workflows**, using AI to accelerate test-case generation, edge-case analysis, test-data creation and defect reporting while keeping human review at the center of the process.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧪 What I Do
 
-### **Testing Expertise**
-- ✅ **Manual Testing:** Functional Testing | Regression Testing | Sanity Testing | User Acceptance Testing (UAT)
-- 🔗 **API Testing:** RESTful API testing | Integration Testing | Response validation | Request/Response debugging
-- 🤖 **Test Automation:** Selenium | Cypress | Page Object Model | Data-driven testing | Parallel execution
-- 📱 **Platforms:** Web Applications | Mobile Applications (iOS/Android) | Responsive Design
-- 💡 **Core Competencies:** Test Case Design | Bug Reporting & Analysis | Root Cause Analysis | Agile/Scrum Collaboration | Test Strategy
+* 🔍 **Manual & Exploratory Testing**
+* 🤖 **Test Automation**
+* 🌐 **Web & Cross-Browser Testing**
+* 📱 **Mobile Testing — iOS & Android**
+* 🔗 **API & Integration Testing**
+* 🧠 **AI-Assisted & Agentic QA**
+* 🧪 **LLM Feature Testing**
+* 📊 **Test Strategy & Quality Gates**
+* 🚦 **Release Readiness & Sign-off**
+* 👥 **QA Team Leadership & Mentoring**
+* 🔄 **Regression & E2E Testing**
+* 🐛 **Defect Analysis & Root Cause Investigation**
+* ⚡ **Performance Testing**
 
-### **Tech Stack**
-```
-Automation Frameworks:  Selenium | Cypress
-API Testing Tools:      Postman | Insomnia | Swagger
-Programming:            Python | JavaScript (Basic) | TypeScript
-Platforms:              Windows | macOS | Linux
-Version Control:        Git | GitHub
-Project Management:     Jira | Confluence | Azure DevOps
-```
+---
+
+## 🛠️ Tech Stack
+
+### Test Automation
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square\&logo=playwright\&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square\&logo=cypress\&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square\&logo=selenium\&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square\&logo=appium\&logoColor=white)
+
+**Playwright · Cypress · Selenium WebDriver · Appium · Page Object Model · E2E · Smoke · Regression**
+
+### API Testing
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square\&logo=swagger\&logoColor=black)
+
+**Postman · Swagger · Insomnia · REST APIs · Authentication · Data Validation · Error Handling**
+
+### AI-Assisted & Agentic QA
+
+**OpenAI Codex · Codex Sub-agents · Agent Skills · Custom GPTs · MCP · Playwright MCP · Jira Workflows**
+
+* AI-assisted test-case generation
+* Edge-case analysis
+* Test-data generation
+* AI-assisted defect reporting
+* LLM output validation
+* Grounding checks
+* Prompt-injection testing
+* Human-reviewed AI QA workflows
+
+### Languages & Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+
+**Python · JavaScript (ES6+) · SQL · Git · GitHub · JIRA · Confluence · BrowserStack · JMeter**
 
 ---
 
 ## 💼 Experience Highlights
 
-**3+ Years in Quality Assurance**
-- ✅ Designed and executed comprehensive test plans for fintech applications with high security and compliance requirements
-- ✅ Collaborated with cross-functional teams in Agile/Scrum environments to deliver quality software on time
-- ✅ Identified and documented 100+ critical and high-priority bugs using clear, actionable reports
-- ✅ Performed regression testing across multiple releases, ensuring no feature degradation
-- ✅ Mentored junior QA engineers on best practices in test case design and bug reporting
-- ✅ Built and maintained test automation frameworks using Selenium and Page Object Model pattern
+### 🏆 QA Leadership
+
+* Led and mentored a **5-engineer QA team**
+* Owned test strategy and quality reviews
+* Established **DEV → UAT → PROD quality gates**
+* Coordinated UAT with business stakeholders
+* Supported release sign-off and production readiness
+
+### 💻 Automation
+
+* Built and maintained **Playwright, Cypress and Selenium** automation
+* Developed automated smoke and regression suites
+* Applied Page Object Model and reusable automation patterns
+* Integrated automated testing into CI/CD release workflows
+
+### 🔗 API & Backend Testing
+
+* Designed Postman and Swagger collections
+* Validated REST APIs and authentication flows
+* Tested data integrity and error-handling scenarios
+* Worked with complex enterprise and financial workflows
+
+### 📱 Web & Mobile
+
+* Web application testing
+* Android and iOS testing
+* Cross-browser testing
+* Responsive UI validation
+* End-to-end transactional workflow testing
+
+### 🤖 AI / LLM Quality
+
+* AI-assisted test-case generation
+* LLM-based edge-case discovery
+* AI-generated test-data creation
+* LLM output quality and grounding validation
+* Prompt-injection scenario testing
+* Agentic QA workflows using AI coding agents and reusable skills
 
 ---
 
-## 📚 QA Portfolio & Key Repositories
+## ⭐ Featured GitHub Projects
 
-Welcome to my QA portfolio hub! Below are my core repositories demonstrating real-world testing expertise and practical QA knowledge:
+### 🤖 AI-QA-agents
 
-### 🌟 **Core Portfolio Repositories**
+Exploring **AI-powered and agentic approaches to software quality**, including AI-assisted test generation and QA workflows.
 
-| Repository | Purpose | What You'll Find | Recruiter Value |
-|---|---|---|---|
-| **📋 [qa-learning-series](https://github.com/innara/qa-learning-series)** | QA Knowledge Hub | Test case templates, common fintech bugs, testing best practices | Shows my testing philosophy & depth |
-| **✅ [test-case-library](https://github.com/innara/test-case-library)** | Comprehensive Test Cases | 30+ real test cases (functional, security, regression, performance) | Demonstrates test design expertise |
-| **🤖 [selenium-erp-automation](https://github.com/innara/selenium-erp-automation)** | Automation Framework | Production-ready Selenium framework with POM, CI/CD, real ERP scenarios | Shows automation architecture skills |
-| **🔗 [api-testing-postman](https://github.com/innara/api-testing-postman)** | API Testing Collection | Postman collections, authentication, data-driven testing, real-world scenarios | Demonstrates API testing knowledge |
-| **🐛 [bug-report-examples](https://github.com/innara/bug-report-examples)** | Bug Documentation | Professional bug templates, real examples, severity matrices, RCA | Shows quality mindset & communication |
-
-### 📁 **Quick Navigation to Test Artifacts**
-
-Looking for something specific? Here's how to navigate:
-
-- **Want to see how I write test cases?** → Visit **[test-case-library](https://github.com/innara/test-case-library)**
-  - Login test cases | Payment workflows | Security tests | Performance scenarios
-
-- **Want to understand my testing approach?** → Visit **[qa-learning-series](https://github.com/innara/qa-learning-series)**
-  - Test design principles | Common bugs to catch | Fintech-specific vulnerabilities | Best practices
-
-- **Want to see my automation skills?** → Visit **[selenium-erp-automation](https://github.com/innara/selenium-erp-automation)**
-  - Page Object Model implementation | Test automation patterns | CI/CD integration | Real ERP examples
-
-- **Want to see my API testing expertise?** → Visit **[api-testing-postman](https://github.com/innara/api-testing-postman)**
-  - REST API testing strategies | Authentication flows | Data-driven scenarios | Error handling
-
-- **Want to see professional bug reporting?** → Visit **[bug-report-examples](https://github.com/innara/bug-report-examples)**
-  - Bug report templates | Real-world examples | Severity classification | Root cause analysis
-
-### 💡 **Why These Repositories Matter**
-
-✅ **test-case-library** - Recruiters immediately see I understand **test design fundamentals**  
-✅ **selenium-erp-automation** - Demonstrates I can build **production-grade automation frameworks**  
-✅ **api-testing-postman** - Shows I test beyond UI automation (**full-stack testing knowledge**)  
-✅ **qa-learning-series** - Proves I'm a **thought leader** who shares knowledge  
-✅ **bug-report-examples** - Demonstrates **professional communication** and quality mindset  
+👉 [View Repository](https://github.com/innara/AI-QA-agents)
 
 ---
 
-## 🚀 My Projects & Contributions
+### 🎭 Playwright Automation
 
-### Featured Automation Projects
+Hands-on browser automation using **Playwright and JavaScript**, focusing on modern E2E testing practices.
 
-| Project | Description | Tech Stack | Key Takeaway |
-|---------|-------------|-----------|---|
-| **ERP Automation Framework** | End-to-end Selenium automation for ERP modules with Page Object Model | Python, Selenium, pytest | Production-ready test automation architecture |
-| **Payment System Testing** | Comprehensive test plan and automation for fintech payment workflows | Selenium, Postman, Python | Security-focused testing for financial systems |
-| **Multi-Platform Testing** | Web and mobile app testing strategy and execution | Selenium, XCUITest, Appium | Cross-platform testing expertise |
-
-### My Testing Contributions Include:
-- ✅ Comprehensive test case design across all testing types (functional, security, performance)
-- ✅ End-to-end test automation frameworks using Selenium and Cypress with Page Object Model
-- ✅ API testing and validation for complex enterprise systems using Postman
-- ✅ Professional bug documentation with clear, actionable reports
-- ✅ ERP system testing with real-world business process automation
-- ✅ Web application performance and regression testing
-- ✅ Mobile app testing strategies and execution
-- ✅ Security testing including OWASP vulnerabilities
-
-> 📚 **Ready to explore?** Check out my [test-case-library](https://github.com/innara/test-case-library) for detailed examples and my [selenium-erp-automation](https://github.com/innara/selenium-erp-automation) for framework demonstrations!
+👉 [View Repository](https://github.com/innara/playwright-automation)
 
 ---
 
-## 📊 GitHub Activity
+### 🐍 ERP Automation — Selenium + Python
 
-![Innara's GitHub stats](https://github-readme-stats.vercel.app/api?username=innara&show_icons=true&theme=tokyonight&count_private=true)
+Automation scripts for ERP modules using **Selenium WebDriver and Python**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innara&layout=compact&theme=tokyonight)
-
----
-
-## 🎓 Continuous Learning
-
-I believe in constantly evolving my QA skills. Currently exploring:
-
-- 📚 Advanced Selenium automation techniques and CI/CD integration
-- 🧪 Performance and load testing with JMeter
-- 🔐 Advanced security testing and OWASP vulnerabilities
-- ☁️ Cloud-based testing platforms and serverless testing
-- 🚀 Modern test frameworks and BDD/Gherkin approaches
-- 🤖 AI/ML in QA automation and intelligent test generation
+👉 [View Repository](https://github.com/innara/ERP-Automation-Scripts-Selenium-Python)
 
 ---
 
-## 🤝 Let's Connect!
+### 🏢 Imtiaz ERP Automation
 
-I'm always excited to discuss QA strategies, share testing tips, collaborate on projects, or help others grow in QA!
+Automation work focused on ERP workflows and business-process validation using **Python + Selenium**.
+
+👉 [View Repository](https://github.com/innara/Imtiaz-ERP-Automation-scripts-pYTHON-Selenium)
+
+---
+
+### 💼 FIDSOR CRM
+
+CRM-related project work demonstrating experience with enterprise application workflows.
+
+👉 [View Repository](https://github.com/innara/FIDSOR-CRM)
+
+---
+
+## 🧩 QA Domains
+
+| Domain         | Experience                                                       |
+| -------------- | ---------------------------------------------------------------- |
+| 💰 FinTech     | Real-time financial data, market feeds, payments, authentication |
+| 🏢 ERP         | Business workflows, transactions, CRM integrations               |
+| 📊 CRM / HRM   | End-to-end enterprise workflows                                  |
+| 🏠 Real Estate | Property transactions, payments, CRM                             |
+| ☁️ SaaS        | Multi-client web applications                                    |
+| 📱 Mobile      | Android & iOS                                                    |
+| 🤖 AI          | LLM-powered features and AI-assisted QA                          |
+
+---
+
+## 🏗️ QA Approach
+
+```text
+Requirements
+     ↓
+Risk Analysis
+     ↓
+Test Strategy
+     ↓
+Test Case Design
+     ↓
+Manual + Automated Testing
+     ↓
+API & Integration Validation
+     ↓
+Regression / E2E
+     ↓
+DEV Quality Gate
+     ↓
+UAT
+     ↓
+PROD Validation
+     ↓
+Release Sign-off
+     ↓
+Production Monitoring & Feedback
+```
+
+I believe QA should be involved **early in the development lifecycle**, not only at the end.
+
+My approach combines:
+
+**Shift-left Testing · Risk-based Testing · Automation · Continuous Validation · AI Assistance · Human Review**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-### 📞 Connect With Me
+![Innara's GitHub Stats](https://github-readme-stats.vercel.app/api?username=innara\&show_icons=true\&hide_border=true)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/innarakarim/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:innara.karim2018@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/innara)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://innara-karimm.vercel.app/)
-
-**💬 Let's chat about:**
-- QA strategy and testing best practices
-- Automation framework design patterns
-- Real-world testing challenges
-- Career growth in QA
-- Open opportunities (I'm interested in QA roles!)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=innara\&layout=compact\&hide_border=true)
 
 </div>
 
 ---
 
-## 📚 Contributing
+## 🎓 Education & Certifications
 
-This profile README is a living document of my QA expertise. If you have suggestions, feedback, or want to discuss testing approaches:
+🎓 **B.S. Software Engineering — Silver Medalist**
+SZABIST Islamabad · 2018–2022
 
-1. 📧 [Email me](mailto:innara.karim2018@gmail.com) with your thoughts
-2. 💬 Open an issue in my repositories
-3. 🤝 Connect on [LinkedIn](https://www.linkedin.com/in/innarakarim/) to discuss QA topics
+🏅 **ISTQB® Certified Tester — Foundation Level (CTFL)**
+
+📜 **Google IT Automation with Python Professional Certificate**
+
+---
+
+## 🌱 Currently Exploring
+
+* 🤖 Agentic QA & AI-powered testing
+* 🎭 Advanced Playwright automation
+* 🧠 LLM evaluation and AI feature testing
+* 🔌 MCP-based QA workflows
+* 🚀 AI-assisted test generation
+* ⚙️ CI/CD automation
+* 🧪 Advanced API and integration testing
+* 📈 Performance testing with JMeter
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in discussing:
+
+* QA Automation
+* AI & Agentic QA
+* Test Strategy
+* Software Quality Engineering
+* Playwright & Modern Automation
+* API Testing
+* QA Leadership
+* LLM Application Testing
+* International QA opportunities
+
+📧 **Email:** [innara.karim2018@gmail.com](mailto:innara.karim2018@gmail.com)
+
+💼 **LinkedIn:** [linkedin.com/in/innarakarim](https://www.linkedin.com/in/innarakarim/)
+
+🌐 **Portfolio:** [innara-karimm.vercel.app](https://innara-karimm.vercel.app/)
 
 ---
 
 <div align="center">
 
-### ⭐ If you found value in my QA portfolio, please star my repositories!
+### 🧪 Quality isn't just about finding bugs. It's about preventing them.
 
-<strong>Let's build quality software together! 🧪</strong>
-
-*A QA engineer's goal: not just finding bugs, but preventing them.*
-
-*Last updated: April 30, 2026*
+**Thanks for visiting my profile! ⭐**
 
 </div>
